@@ -1,6 +1,14 @@
 """ A library to perform rainfall unit conversion """
 
 def inches_to_mm(inches):
-	""" Convert inches to mm ""
-# TODO(Developer B): Add function to convert from inches to cm
+	""" Convert inches to mm """ 
+	mm = inches * 25.4
+	return mm
+
+der inches_to_cm(inches):
+	""" Conver inches to cm """
+	cm = inches * 2.54
+	return cm
+
+# TODO(Developer A): Please change this again...
 
