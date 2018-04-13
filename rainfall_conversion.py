@@ -10,5 +10,5 @@ der inches_to_cm(inches):
 	cm = inches * 2.54
 	return cm
 
-# TODO(Developer A): Please change this again...
+#TODO(Developer A): Please check that it works
 
